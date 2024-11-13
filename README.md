@@ -4,7 +4,7 @@
 目前仅在群辉7.2测试使用，其他平台没有测试过
 # 使用
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/suixing8/xiaoya-alist-search/8dd694cb81e652ebf0e96d840f6afe006c987603/xiaoya-alist-search.sh)"
+bash -c "$(curl -fsSL https://github.com/suixing8/xiaoya-alist-search/blob/5e0577e5a68ca8e63941ef076038b49d188e65ae/xiaoya-alist-search.sh)"
 ```
 # 感谢
 [xiaoyaLiu](https://alist.xiaoya.pro/)
