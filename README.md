@@ -6,7 +6,7 @@
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/suixing8/xiaoya-alist-search/8dd694cb81e652ebf0e96d840f6afe006c987603/xiaoya-alist-search.sh)"
 ```
-感谢
+# 感谢
 [xiaoyaLiu](https://alist.xiaoya.pro/)
 
 
