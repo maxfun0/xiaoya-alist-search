@@ -6,5 +6,7 @@
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/suixing8/xiaoya-alist-search/8dd694cb81e652ebf0e96d840f6afe006c987603/xiaoya-alist-search.sh)"
 ```
-命令执行后
-需要输入小雅alist的docker名称，默认是xiaoya，一般一键命令安装的也是这个名称
+感谢
+[xiaoyaLiu](https://alist.xiaoya.pro/)
+
+
