@@ -11,6 +11,14 @@ read -r AList_URL
 echo "请输入新建docker的安装路径:"
 read -r INSTALL_PATH
 
+# 检查并创建目录
+if [ ! -d "$INSTALL_PATH" ]; then
+    mkdir -p "$INSTALL_PATH"
+    echo "目录 $INSTALL_PATH 已创建。"
+else
+    echo "目录 $INSTALL_PATH 已存在。"
+fi
+
 while true; do
     echo "请输入新建docker的名称:"
     read -r NEW_DOCKER_NAME
