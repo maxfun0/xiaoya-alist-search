@@ -165,8 +165,8 @@ def insert_data(service_type, token, address, password, force_login):
             (13, '/综艺', 13, 'WebDav', 30, 'work', {"vendor":"other","address":address,"username":username,"password":password_input,"root_folder_path":"/dav/综艺","tls_insecure_skip_verify":False}),
             (14, '/资料', 14, 'WebDav', 30, 'work', {"vendor":"other","address":address,"username":username,"password":password_input,"root_folder_path":"/dav/资料","tls_insecure_skip_verify":False}),
             (15, '/音乐', 15, 'WebDav', 30, 'work', {"vendor":"other","address":address,"username":username,"password":password_input,"root_folder_path":"/dav/音乐","tls_insecure_skip_verify":False}),
-            (16, '/我的夸克分享', 16, 'WebDav', 30, 'work', {"vendor":"other","address":address,"username":username,"password":password_input,"root_folder_path":"/dav/我的夸克分享","tls_insecure_skip_verify":False}),
-            (17, '/️我的115分享', 17, 'WebDav', 30, 'work', {"vendor":"other","address":address,"username":username,"password":password_input,"root_folder_path":"/dav/️我的115分享","tls_insecure_skip_verify":False}),
+            (16, '/🌀我的夸克分享', 16, 'WebDav', 30, 'work', {"vendor":"other","address":address,"username":username,"password":password_input,"root_folder_path":"/dav/🌀我的夸克分享","tls_insecure_skip_verify":False}),
+            (17, '/️🏷️我的115分享', 17, 'WebDav', 30, 'work', {"vendor":"other","address":address,"username":username,"password":password_input,"root_folder_path":"/dav/️🏷️我的115分享","tls_insecure_skip_verify":False}),
             (18, '/画质演示测试（4K，8K，HDR，Dolby）', 18, 'WebDav', 30, 'work', {"vendor":"other","address":address,"username":username,"password":password_input,"root_folder_path":"/dav/画质演示测试（4K，8K，HDR，Dolby）","tls_insecure_skip_verify":False}),
             (19, '/️我的PikPak分享', 19, 'WebDav', 30, 'work', {"vendor":"other","address":address,"username":username,"password":password_input,"root_folder_path":"/dav/️我的PikPak分享","tls_insecure_skip_verify":False})
         ]
