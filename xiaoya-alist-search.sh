@@ -68,7 +68,7 @@ cat <<EOF > "$COMPOSE_FILE"
 version: '3.3'
 services:
     alist:
-        image: 'xhofe/alist:v3.39.1'
+        image: 'xhofe/alist:latest'
         container_name: $NEW_DOCKER_NAME
         volumes:
             - '$INSTALL_PATH:/opt/alist/data'
