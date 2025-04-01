@@ -82,7 +82,7 @@ services:
         restart: unless-stopped
 EOF
 
-docker-compose -f "$COMPOSE_FILE" up -d
+docker compose -f "$COMPOSE_FILE" up -d
 
 # 等待容器启动
 sleep 15
