@@ -4,7 +4,7 @@
 目前仅在群辉7.2测试使用，需要先安装好Python，群晖可以在套件中心安装，其他平台没有测试过
 # 使用
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/suixing8/xiaoya-alist-search/main/xiaoya-alist-search.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/maxfun0/xiaoya-alist-search/main/xiaoya-alist-search.sh)"
 ```
 # 感谢
 [xiaoyaLiu](https://alist.xiaoya.pro/)
